@@ -5,3 +5,5 @@ Marketing is crucial for a successful business, yet 62% of businesses don’t kn
 [google doc](https://docs.google.com/document/d/1dLVBZXffiXhr0-wSr-w88DujwVaqNvHGKvEnN28ApoU/edit?usp=sharing)
 
 [jupyter notebook](https://github.com/jasmineregner/predictive_marketing/blob/master/bank_marketing.ipynb)
+
+[slides](https://docs.google.com/presentation/d/1AqHqMiFVLo4eXEqanaqAWpSq5lN0hQqTlYbkUfroV_4/edit?usp=sharing)
